@@ -1,2 +1,0 @@
-# jyo
-about
